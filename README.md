@@ -1,2 +1,2 @@
-# HackerRank_medium
-it contains some medium level HackerRank questions requiring use of some great concepts 
+# Competitive_Problems
+This repository conatins competitive questions of hacker rank,codechef and spoj
